@@ -1,0 +1,7 @@
+{
+  "name": "calculadoraselect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
